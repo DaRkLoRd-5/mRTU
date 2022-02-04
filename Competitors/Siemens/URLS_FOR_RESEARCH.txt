@@ -1,0 +1,4 @@
+SIMATIC S7-1500 :- https://new.siemens.com/global/en/products/automation/systems/industrial/plc/simatic-s7-1500.html
+
+Totally Integrated Automation Portal :- https://new.siemens.com/global/en/products/automation/industry-software/automation-software/tia-portal.html?gclid=Cj0KCQiA0eOPBhCGARIsAFIwTs5gpAaJRvEbQKYK7w6AzRkND2h_LJAyZ0Srsu2aFfPryeviTx-s3l4aAiNKEALw_wcB
+
